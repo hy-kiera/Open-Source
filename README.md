@@ -4,5 +4,3 @@
 
 team red-05
 
-Hello
-
