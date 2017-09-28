@@ -30,6 +30,10 @@
 
 \[ [https://thetechportal.com/2017/03/03/github-introduces-unity-extension/](https://thetechportal.com/2017/03/03/github-introduces-unity-extension/) \]
 
+![](/assets/톰 프레스톤 워너.png)
+
+\[ https://twitter.com/mojombo \]
+
 Tom Preston-Werner
 
 -소프트웨어 개발자
@@ -40,7 +44,9 @@ Tom Preston-Werner
 
 -Gravatar라는 아바타 서비스이 창시자
 
+![](/assets/크리스 완스트래스.png)
 
+\[ https://www.crunchbase.com/person/chris-wanstrath\#/entity \]
 
 -깃허브회사는2008년톰프레스턴워너\(Tom Preston-Werner\),크리스완스트래스\(Chris Wanstrath\),피제이하이엣\(PJ Hyett\)이공동설립했다.[앤드리슨호로위츠](https://ko.wikipedia.org/wiki/앤드리슨_호로위츠)\(Andreessen Horowitz\)등에서투자를받았다. 2010년1월부터깃허브는GitHub, Inc.라는이름으로운영되고있다.[\[4\]](https://ko.wikipedia.org/wiki/깃허브#cite_note-4)깃허브의마스코트는고양이머리에문어다리가달린옥토캣\(Octocat\)이다.본사는미국캘리포니아주샌프란시스코에있다.
 
@@ -62,8 +68,6 @@ Tom Preston-Werner
 
 -유닉스 개발 관련하여 튜링상 수상
 
-
-
 **데니스 리치**
 
 -켄 톰슨 등과 함께 최초의 유닉스 시스템 개발
@@ -75,10 +79,6 @@ Tom Preston-Werner
 -켄 톰슨과 함께 튜링상 수상
 
 -매킨토시 OS, ios는 유닉스 기반으로 데니스 리치의 업적에 기반함
-
-
-
-
 
 **튜링 상**\(Turing Award\)은[ACM](https://ko.wikipedia.org/wiki/ACM)에서[컴퓨터 과학](https://ko.wikipedia.org/wiki/컴퓨터_과학)분야에 업적을 남긴 사람에게 매년 시상하는 상이다. "컴퓨터 과학의 노벨상"이라고도 불린다. 영국의 수학자이며 현대 전산학의 아버지라 할 수 있는[앨런 튜링](https://ko.wikipedia.org/wiki/앨런_튜링)의 이름을 땄다. 현재는[인텔](https://ko.wikipedia.org/wiki/인텔)사에서 후원하고 있으며 10만 달러의 상금이 부상으로 주어진다.ACM은 지난 2007년 6월 26일,[구글](https://ko.wikipedia.org/wiki/구글)이 인텔과 함께 튜링상의 공동 후원을 맡기로 하였다고 발표했다. 두 회사는 총 25만 달러의 상금을 각각 12만5천 달러씩 분담하기로 하였다.
 
