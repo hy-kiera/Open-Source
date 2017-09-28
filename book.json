@@ -1,5 +1,7 @@
 {
-    "plugins":[
-        "collapsible-menu"
+    "plugins": [
+        "collapsible-menu",
+	"youtube",
+	"anchors"
     ]
 }
