@@ -13,7 +13,7 @@
 * [오픈소스에 대해](AboutOpenS.md)
   * [오픈소스란?](c624-d508-c18c-c2a4-b7803f.md)
   * [오픈소스의 장, 단점](c624-d508-c18c-c2a4-c758-c7a52c-b2e8-c810.md)
-  * [오픈소스 예시](c624-d508-c18c-c2a4-b97c-c0ac-c6a9-d55c-ac83.md)
+  * [오픈소스의 대표작](c624-d508-c18c-c2a4-b97c-c0ac-c6a9-d55c-ac83.md)
     * [리눅스](c624-d508-c18c-c2a4-b97c-c0ac-c6a9-d55c-ac83/b9ac-b205-c2a4.md)
 * [끝](b05d.md)
 
