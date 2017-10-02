@@ -9,9 +9,9 @@
    비영리단체인 Documet Foundation의 LibreOffice는 모든 이가 무료로 이용할 수 있는 프로그램이다. 또한 자유 소프트웨어 운동에 따라 제작된 만큼 모든 사용자가 제약없이 LibreOffice의 수정, 복제, 배포에 대한 자유를 가진다.
     LibreOffice 는 다음의 목표를 가진다.
 
-   - 비용 발생 없이 오피스 툴에 자유로운 접근이 가능하도록 한다
-   - 번역과 문서화를 수월하게 하며 모든 언어를 지원하는 소프트웨어
-   - promoting and actively participating in the creation and development of open standards and Free Software via open and transparent peer-review processes
+    - 비용 발생 없이 오피스 툴에 자유로운 접근이 가능하도록 한다
+    - 번역과 문서화를 수월하게 하며 모든 언어를 지원하는 소프트웨어
+    - 개방적이고 투명한 동료평가 과정을 통한 오픈소스 및 자유 소프트웨어의 창조, 발전의 촉진과 적극적 참여
 
 
 
