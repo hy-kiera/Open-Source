@@ -4,17 +4,42 @@
 
 > Introduction
 
-http://geezam.com/linux-open-source-technologies-benefits-jamaica/
+[http://geezam.com/linux-open-source-technologies-benefits-jamaica/](http://geezam.com/linux-open-source-technologies-benefits-jamaica/)
 
 > 오픈소스의 역사
 
-https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjA6fLx3snWAhUJO7wKHZ4fBLsQjRwIBw&url=http%3A%2F%2Fopensourcealliance.or.kr%2F&psig=AFQjCNF0QZsO1SMKOvrAd3hFzL0r0VtPRQ&ust=1506752011571243
+[https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjA6fLx3snWAhUJO7wKHZ4fBLsQjRwIBw&url=http%3A%2F%2Fopensourcealliance.or.kr%2F&psig=AFQjCNF0QZsO1SMKOvrAd3hFzL0r0VtPRQ&ust=1506752011571243](https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjA6fLx3snWAhUJO7wKHZ4fBLsQjRwIBw&url=http%3A%2F%2Fopensourcealliance.or.kr%2F&psig=AFQjCNF0QZsO1SMKOvrAd3hFzL0r0VtPRQ&ust=1506752011571243)
+
+> 오픈소스가 나타난 배경
+
+&lt;법률사무소 민후 김경환 변호사&gt;hi@minwho.kr  
+&lt;법률사무소 민후&gt;www.minwho.kr
+
+www.ddaily.co.kr/news/article.html?no=115248
 
 > 오픈소스의 발전 과정
 
-https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjs\_e3x4snWAhXBULwKHYfOD6cQjRwIBw&url=http%3A%2F%2Fblog.skhynix.com%2F1423&psig=AFQjCNEo4JLmKXSAuIHyiW00gCJ1jpZCew&ust=1506753098473249
+[https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjs\_e3x4snWAhXBULwKHYfOD6cQjRwIBw&url=http%3A%2F%2Fblog.skhynix.com%2F1423&psig=AFQjCNEo4JLmKXSAuIHyiW00gCJ1jpZCew&ust=1506753098473249](https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjs_e3x4snWAhXBULwKHYfOD6cQjRwIBw&url=http%3A%2F%2Fblog.skhynix.com%2F1423&psig=AFQjCNEo4JLmKXSAuIHyiW00gCJ1jpZCew&ust=1506753098473249)
 
 "Secure Programming for Linux and Unix HOWTO" -David A. Wheeler
 
-https://en.wikipedia.org/wiki/History\_of\_free\_and\_open-source\_software
+[https://en.wikipedia.org/wiki/History\_of\_free\_and\_open-source\_software](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software)
+
+> 오픈소스를 만든 사람들
+
+[https://ko.wikipedia.org/wiki/리누스\_토르발스](https://ko.wikipedia.org/wiki/리누스_토르발스)
+
+[http://codedragon.tistory.com/2893](http://codedragon.tistory.com/2893)
+
+[https://ko.wikipedia.org/wiki/자비로운\_종신독재자](#)
+
+[https://thetechportal.com/2017/03/03/github-introduces-unity-extension/](https://thetechportal.com/2017/03/03/github-introduces-unity-extension/)
+
+[https://twitter.com/mojombo](https://twitter.com/mojombo)
+
+[https://www.crunchbase.com/person/chris-wanstrath\#/entity](#)
+
+[https://ko.wikipedia.org/wiki/유닉스](#)
+
+[https://ko.wikipedia.org/wiki/켄\_톰프슨](#)
 
