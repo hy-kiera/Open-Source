@@ -21,5 +21,5 @@
     * [리눅스](c624-d508-c18c-c2a4-b97c-c0ac-c6a9-d55c-ac83/b9ac-b205-c2a4.md)
     * [리브레 오피스](c624-d508-c18c-c2a4-b97c-c0ac-c6a9-d55c-ac83/b9ac-d504-b808-c624-d53c-c2a4.md)
 * [끝](b05d.md)
-  * [참고문헌 및 출처](b05d/cc38-ace0-bb38-d5cc-bc0f-cd9c-cc98.md)
+  * [참고자료 및 출처](b05d/cc38-ace0-bb38-d5cc-bc0f-cd9c-cc98.md)
 

@@ -1,4 +1,4 @@
-# 참고문헌 및 출처
+# 참고자 및 출처
 
 ---
 
@@ -53,7 +53,6 @@
 
 \[libreoffice-logo\] [https://logosinside.com](https://logosinside.com)
 
-\[3 goals of LibreOffice\] [https://ko.libreoffice.org/about-us/who-are-we/](https://ko.libreoffice.org/about-us/who-are-we/)
-
-
+\[3 goals of LibreOffice\] [https://ko.libreoffice.org/about-us/who-are-we/  
+](https://ko.libreoffice.org/about-us/who-are-we/)
 
