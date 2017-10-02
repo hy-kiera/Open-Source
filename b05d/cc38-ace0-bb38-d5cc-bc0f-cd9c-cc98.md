@@ -15,7 +15,7 @@
 &lt;법률사무소 민후 김경환 변호사&gt;hi@minwho.kr  
 &lt;법률사무소 민후&gt;www.minwho.kr
 
-www.ddaily.co.kr/news/article.html?no=115248
+[www.ddaily.co.kr/news/article.html?no=115248](/www.ddaily.co.kr/news/article.html?no=115248)
 
 > 오픈소스의 발전 과정
 
