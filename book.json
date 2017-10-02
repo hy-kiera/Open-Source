@@ -5,15 +5,12 @@
 	"anchors"
 	"autocover"
     ]
+    "title": "My Book",
+    "author": "Author",
     "pluginsConfig": {
         "autocover": {
-            {
-                "title": "My Book",
-                "author": "Author",
-                "pluginsConfig": {
-                    "autocover": {
             "font": {
-                            "size": null,
+                "size": null,
                 "family": "Impact",
                 "color": "#FFF"
             },
@@ -26,7 +23,5 @@
             }
         }
     }
-}
-        }
     }
 }
