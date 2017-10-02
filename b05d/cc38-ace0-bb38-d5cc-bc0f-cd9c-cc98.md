@@ -43,3 +43,17 @@
 
 [https://ko.wikipedia.org/wiki/켄\_톰프슨](#)
 
+> 오픈소스란?
+
+\[그림\] [https://opensource.org](https://opensource.org)
+
+\[자유 소프트웨어의 4가지 자유\] [https://www.gnu.org/philosophy/free-sw.html](https://www.gnu.org/philosophy/free-sw.html)
+
+> 오픈소스의 대표작 - 리브레 오피스
+
+\[libreoffice-logo\] [https://logosinside.com](https://logosinside.com)
+
+\[3 goals of LibreOffice\] [https://ko.libreoffice.org/about-us/who-are-we/](https://ko.libreoffice.org/about-us/who-are-we/)
+
+
+
