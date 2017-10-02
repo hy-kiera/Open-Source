@@ -6,6 +6,6 @@
 
 ------------
 
-{% youtube src="https://youtu.be/4ZHloJVhcRY" %}{% endyoutube %}
+{% youtube src="https://www.youtube.com/embed/4ZHloJVhcRY"%}{% endyoutube %}
 
 [VIDEO](https://www.youtube.com/watch?v=4ZHloJVhcRY): 오픈소스, 자유 소프트웨어 운동의 20년을 추적한 다큐
