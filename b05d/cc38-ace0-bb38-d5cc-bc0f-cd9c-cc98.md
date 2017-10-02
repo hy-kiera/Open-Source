@@ -27,11 +27,17 @@
 
 > 오픈소스를 만든 사람들
 
+[https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwipm4vX-NHWAhWCa7wKHb-xCDEQjRwIBw&url=http%3A%2F%2Fknaps.or.kr%2F19&psig=AOvVaw3URY1lGECusKKgR0jv7mRh&ust=1507033775217387](https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwipm4vX-NHWAhWCa7wKHb-xCDEQjRwIBw&url=http%3A%2F%2Fknaps.or.kr%2F19&psig=AOvVaw3URY1lGECusKKgR0jv7mRh&ust=1507033775217387)
+
+> 리눅스
+
 [https://ko.wikipedia.org/wiki/리누스\_토르발스](https://ko.wikipedia.org/wiki/리누스_토르발스)
 
 [http://codedragon.tistory.com/2893](http://codedragon.tistory.com/2893)
 
 [https://ko.wikipedia.org/wiki/자비로운\_종신독재자](#)
+
+> 깃허브
 
 [https://thetechportal.com/2017/03/03/github-introduces-unity-extension/](https://thetechportal.com/2017/03/03/github-introduces-unity-extension/)
 
@@ -39,7 +45,11 @@
 
 [https://www.crunchbase.com/person/chris-wanstrath\#/entity](#)
 
+> 유닉스
+
 [https://ko.wikipedia.org/wiki/유닉스](#)
+
+> 자바
 
 [https://ko.wikipedia.org/wiki/켄\_톰프슨](#)
 
@@ -53,6 +63,6 @@
 
 \[libreoffice-logo\] [https://logosinside.com](https://logosinside.com)
 
-\[3 goals of LibreOffice\] [https://ko.libreoffice.org/about-us/who-are-we/    
+\[3 goals of LibreOffice\] [https://ko.libreoffice.org/about-us/who-are-we/          
 ](https://ko.libreoffice.org/about-us/who-are-we/)
 
