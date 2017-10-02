@@ -59,6 +59,10 @@
 
 \[자유 소프트웨어의 4가지 자유\] [https://www.gnu.org/philosophy/free-sw.html](https://www.gnu.org/philosophy/free-sw.html)
 
+> 오픈소스의 장단점
+
+[https://crowdsourcedtesting.com/resources/pros-cons-open-source-software](https://crowdsourcedtesting.com/resources/pros-cons-open-source-software/)
+
 > 오픈소스의 대표작 - Linux
 
 [https://www.linux.com/what-is-linux](#)
@@ -69,6 +73,6 @@
 
 \[libreoffice-logo\] [https://logosinside.com](https://logosinside.com)
 
-\[3 goals of LibreOffice\] [https://ko.libreoffice.org/about-us/who-are-we/                
+\[3 goals of LibreOffice\] [https://ko.libreoffice.org/about-us/who-are-we/                  
 ](https://ko.libreoffice.org/about-us/who-are-we/)
 
