@@ -1,10 +1,10 @@
-## ![](/assets/open-source-software.jpeg)Open Source
+-----------
+
+#OPEN SOURCE
 
 #### : Introduce Open Source and its history
 
 by team red-05
 
----
-
-
+------------
 
