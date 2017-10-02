@@ -1,5 +1,3 @@
-##The Open-source HandBook
-
 
 <img src='opensource-phone.png' class='float: left; margin-right: 1em; clear: both; width: 250px;'>
 
@@ -7,8 +5,6 @@
 
 ------------
 
-<div class="video-wrapper">
-  <iframe src="https://www.youtube.com/watch?v=4ZHloJVhcRY" frameborder="0" allowfullscreen></iframe>
-</div>
+{% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
 
 [VIDEO](https://www.youtube.com/watch?v=4ZHloJVhcRY): 오픈소스, 자유 소프트웨어 운동의 20년을 추적한 다큐
