@@ -20,11 +20,11 @@ www.ddaily.co.kr/news/article.html?no=115248
 
 > 오픈소스의 발전 과정
 
-[https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjs\_e3x4snWAhXBULwKHYfOD6cQjRwIBw&url=http%3A%2F%2Fblog.skhynix.com%2F1423&psig=AFQjCNEo4JLmKXSAuIHyiW00gCJ1jpZCew&ust=1506753098473249](https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjs\_e3x4snWAhXBULwKHYfOD6cQjRwIBw&url=http%3A%2F%2Fblog.skhynix.com%2F1423&psig=AFQjCNEo4JLmKXSAuIHyiW00gCJ1jpZCew&ust=1506753098473249]%28https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjs_e3x4snWAhXBULwKHYfOD6cQjRwIBw&url=http%3A%2F%2Fblog.skhynix.com%2F1423&psig=AFQjCNEo4JLmKXSAuIHyiW00gCJ1jpZCew&ust=1506753098473249\)
+\[Image\] [https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjs\_e3x4snWAhXBULwKHYfOD6cQjRwIBw&url=http%3A%2F%2Fblog.skhynix.com%2F1423&psig=AFQjCNEo4JLmKXSAuIHyiW00gCJ1jpZCew&ust=1506753098473249](https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjs_e3x4snWAhXBULwKHYfOD6cQjRwIBw&url=http%3A%2F%2Fblog.skhynix.com%2F1423&psig=AFQjCNEo4JLmKXSAuIHyiW00gCJ1jpZCew&ust=1506753098473249]%28https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjs_e3x4snWAhXBULwKHYfOD6cQjRwIBw&url=http%3A%2F%2Fblog.skhynix.com%2F1423&psig=AFQjCNEo4JLmKXSAuIHyiW00gCJ1jpZCew&ust=1506753098473249\)
 
 "Secure Programming for Linux and Unix HOWTO" -David A. Wheeler
 
-[https://en.wikipedia.org/wiki/History\_of\_free\_and\_open-source\_software](https://en.wikipedia.org/wiki/History\_of\_free\_and\_open-source\_software]%28https://en.wikipedia.org/wiki/History_of_free_and_open-source_software\)
+[https://en.wikipedia.org/wiki/History\_of\_free\_and\_open-source\_software](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software]%28https://en.wikipedia.org/wiki/History_of_free_and_open-source_software\)
 
 > 오픈소스를 만든 사람들
 
@@ -32,11 +32,11 @@ www.ddaily.co.kr/news/article.html?no=115248
 
 > 리눅스
 
-[https://ko.wikipedia.org/wiki/리누스\_토르발스](https://ko.wikipedia.org/wiki/리누스\_토르발스]%28https://ko.wikipedia.org/wiki/리누스_토르발스\)
+[https://ko.wikipedia.org/wiki/리누스\_토르발스](https://ko.wikipedia.org/wiki/리누스_토르발스]%28https://ko.wikipedia.org/wiki/리누스_토르발스\)
 
 [http://codedragon.tistory.com/2893](http://codedragon.tistory.com/2893]%28http://codedragon.tistory.com/2893\)
 
-[https://ko.wikipedia.org/wiki/자비로운\\_종신독재자](https://ko.wikipedia.org/wiki/자비로운\_종신독재자]%28#\)
+[https://ko.wikipedia.org/wiki/자비로운\\_종신독재자](https://ko.wikipedia.org/wiki/자비로운_종신독재자]%28#\)
 
 > 깃허브
 
@@ -44,7 +44,7 @@ www.ddaily.co.kr/news/article.html?no=115248
 
 [https://twitter.com/mojombo](https://twitter.com/mojombo]%28https://twitter.com/mojombo\)
 
-[https://www.crunchbase.com/person/chris-wanstrath](https://www.crunchbase.com/person/chris-wanstrath\#/entity]%28#\)
+[https://www.crunchbase.com/person/chris-wanstrath](https://www.crunchbase.com/person/chris-wanstrath#/entity]%28#\)
 
 > 유닉스
 
@@ -52,7 +52,7 @@ www.ddaily.co.kr/news/article.html?no=115248
 
 > 자바
 
-[https://ko.wikipedia.org/wiki/켄\\_톰프슨](https://ko.wikipedia.org/wiki/켄\_톰프슨]%28#\)
+[https://ko.wikipedia.org/wiki/켄\\_톰프슨](https://ko.wikipedia.org/wiki/켄_톰프슨]%28#\)
 
 > 오픈소스란?
 
