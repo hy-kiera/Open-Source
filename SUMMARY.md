@@ -15,6 +15,6 @@
   * [오픈소스의 장, 단점](c624-d508-c18c-c2a4-c758-c7a52c-b2e8-c810.md)
   * [오픈소스의 대표작](c624-d508-c18c-c2a4-b97c-c0ac-c6a9-d55c-ac83.md)
     * [리눅스](c624-d508-c18c-c2a4-b97c-c0ac-c6a9-d55c-ac83/b9ac-b205-c2a4.md)
-    * [리프레 오피스](c624-d508-c18c-c2a4-b97c-c0ac-c6a9-d55c-ac83/b9ac-d504-b808-c624-d53c-c2a4.md)
+    * [리브레 오피스](c624-d508-c18c-c2a4-b97c-c0ac-c6a9-d55c-ac83/b9ac-d504-b808-c624-d53c-c2a4.md)
 * [끝](b05d.md)
 
