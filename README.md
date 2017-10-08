@@ -4,7 +4,7 @@
 
 
 
-&lt;img src='opensource-phone.png' style='float:right; margin: 1em; clear: both; width:250px '&gt;
+<img src='opensource-phone.png' style='float:right; margin: 1em; clear: both; width:250px '>![](/assets/loomio-phone.png)
 
 
 
