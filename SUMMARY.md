@@ -10,6 +10,10 @@
     * [1990s](c624-d508-c18c-c2a4-c758-c5ed-c0ac/c624-d508-c18c-c2a4-c758-bc1c-c804-acfc-c815/1990s.md)
     * [2000s](c624-d508-c18c-c2a4-c758-c5ed-c0ac/c624-d508-c18c-c2a4-c758-bc1c-c804-acfc-c815/2000s.md)
   * [오픈소스를 만든 사람들](c624-d508-c18c-c2a4-c758-c5ed-c0ac/c624-d508-c18c-c2a4-b97c-b9cc-b4e0-c0ac-b78c-b4e4.md)
+    * [리눅스](c624-d508-c18c-c2a4-c758-c5ed-c0ac/c624-d508-c18c-c2a4-b97c-b9cc-b4e0-c0ac-b78c-b4e4/b9ac-b205-c2a4.md)
+    * 깃허브
+    * 유닉스
+    * 자바
 * [오픈소스에 대해](AboutOpenS.md)
   * [오픈소스란?](c624-d508-c18c-c2a4-b7803f.md)
   * [오픈소스의 장, 단점](c624-d508-c18c-c2a4-c758-c7a52c-b2e8-c810.md)
@@ -17,4 +21,5 @@
     * [리눅스](c624-d508-c18c-c2a4-b97c-c0ac-c6a9-d55c-ac83/b9ac-b205-c2a4.md)
     * [리브레 오피스](c624-d508-c18c-c2a4-b97c-c0ac-c6a9-d55c-ac83/b9ac-d504-b808-c624-d53c-c2a4.md)
 * [끝](b05d.md)
+  * [참고자료 및 출처](b05d/cc38-ace0-c790-b8cc-bc0f-cd9c-cc98.md)
 
