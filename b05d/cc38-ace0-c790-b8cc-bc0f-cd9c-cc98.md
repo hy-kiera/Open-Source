@@ -1,7 +1,5 @@
 # 참고자료 및 출처
 
----
-
 > Introduction
 
 [http://geezam.com/linux-open-source-technologies-benefits-jamaica/](http://geezam.com/linux-open-source-technologies-benefits-jamaica/]%28http://geezam.com/linux-open-source-technologies-benefits-jamaica/\)
