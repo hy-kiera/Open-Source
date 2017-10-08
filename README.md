@@ -4,7 +4,7 @@
 
 
 
-<img src='opensource-phone.png' style='float:right; margin: 1em; clear: both; width:250px '>
+<img src='opensource-phone.png' style='float:right; margin: 1em; clear: both; width:289px; height:363px'>
 
 
 우리가 생활하면서 컴퓨터공학 전공이 아닌 사람들이 오픈소스라는 말을 들어봤을까? 아마 나도 모르게 어딘가-뉴스나 칼럼-에서 흘려 들었을지도 모른다. 지금 이 글을 쓰고 있는 자신도 팀프로젝트를 할때 소스코드를 공부하면서 여러가지 검색하다가 오픈소스를 알게 되었고 그것의 효과를 톡톡히 봤다. 그만큼 요즘 IT시대\\(4차 산업혁명\\)에 많이 사용되고 있고 우리에게 중요한 개념이다. 
