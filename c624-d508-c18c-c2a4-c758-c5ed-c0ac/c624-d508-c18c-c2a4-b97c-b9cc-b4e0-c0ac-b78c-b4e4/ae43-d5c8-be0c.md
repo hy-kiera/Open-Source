@@ -26,9 +26,7 @@ Tom Preston-Werner
 
 \[ [https://www.crunchbase.com/person/chris-wanstrath\#/entity](https://www.crunchbase.com/person/chris-wanstrath#/entity) \]
 
----
-
-* ### 
+### 
 
 
 
