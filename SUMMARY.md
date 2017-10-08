@@ -9,7 +9,7 @@
     * [1980s](c624-d508-c18c-c2a4-c758-c5ed-c0ac/c624-d508-c18c-c2a4-c758-bc1c-c804-acfc-c815/1980s.md)
     * [1990s](c624-d508-c18c-c2a4-c758-c5ed-c0ac/c624-d508-c18c-c2a4-c758-bc1c-c804-acfc-c815/1990s.md)
     * [2000s](c624-d508-c18c-c2a4-c758-c5ed-c0ac/c624-d508-c18c-c2a4-c758-bc1c-c804-acfc-c815/2000s.md)
-  * [오픈소스를 만든 사람들](c624-d508-c18c-c2a4-c758-c5ed-c0ac/c624-d508-c18c-c2a4-b97c-b9cc-b4e0-c0ac-b78c-b4e4.md)
+  * [오픈소스와 함께 하는 사람들](c624-d508-c18c-c2a4-c758-c5ed-c0ac/c624-d508-c18c-c2a4-b97c-b9cc-b4e0-c0ac-b78c-b4e4.md)
     * [리눅스](c624-d508-c18c-c2a4-c758-c5ed-c0ac/c624-d508-c18c-c2a4-b97c-b9cc-b4e0-c0ac-b78c-b4e4/b9ac-b205-c2a4.md)
     * [깃허브](c624-d508-c18c-c2a4-c758-c5ed-c0ac/c624-d508-c18c-c2a4-b97c-b9cc-b4e0-c0ac-b78c-b4e4/ae43-d5c8-be0c.md)
     * [유닉스](c624-d508-c18c-c2a4-c758-c5ed-c0ac/c624-d508-c18c-c2a4-b97c-b9cc-b4e0-c0ac-b78c-b4e4/c720-b2c9-c2a4.md)
