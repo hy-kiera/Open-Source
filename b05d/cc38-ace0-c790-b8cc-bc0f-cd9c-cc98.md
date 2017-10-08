@@ -2,7 +2,8 @@
 
 > Introduction
 
-[http://geezam.com/linux-open-source-technologies-benefits-jamaica/](http://geezam.com/linux-open-source-technologies-benefits-jamaica/]%28http://geezam.com/linux-open-source-technologies-benefits-jamaica/\)
+[그림] [https://loomio.coop/](https://loomio.coop/)
+[영상] [https://www.youtube.com/embed/4ZHloJVhcRY](https://www.youtube.com/embed/4ZHloJVhcRY)
 
 > 오픈소스의 역사
 
